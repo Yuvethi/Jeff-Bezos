@@ -119,3 +119,8 @@ a {
 #contact iframe {
     width: 100%;
 }
+.my_nav_bar {
+    position: sticky;
+    margin-top: 0;
+    z-index: 99999;
+}
